@@ -4,38 +4,42 @@
       "id": "7t2mMHx9TbCcvkzX4H9Yhny92RoTaQ3l",
       "name": "John Doe 1",
       "email": "john.doe@gmail.com",
-	  "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
+      "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
-      "pictureurl": "../assets/images/temp/DP1.png",
+      "profilePics": ["../assets/images/temp/DP1.png"],
       "onlinestatus": true,
       "proximityalert": true,
-	  "distance": "15.2",
+      "distance": "15.2",
       "facebook": {
         "ispresent": true,
         "id": "123456789"
-      },
-      "youtube": {
-        "ispresent": true,
-        "id": "3eaNLCu58io"
       },
       "instagram": {
         "ispresent": true,
         "id": "@johdoe"
       },
+      "youtube": {
+        "ispresent": true,
+        "id": "@johdoe"
+      },
       "spotify": {
         "ispresent": true,
-        "id": "track1234"
+        "id": "@johdoe"
       },
-      "lookingfor": [
-        "jam session",
-        "join a band"
-      ],
-      "genres": [
-        "rap/hip-hop",
-        "classical",
-        "indie",
-        "pop"
-      ],
+      "media": {
+        "spotify_tracks": [
+          {
+            "id": "track1234"
+          }
+        ],
+        "youtube_videos": [
+          {
+            "id": "3eaNLCu58io"
+          }
+        ]
+      },
+      "lookingfor": ["jam session", "join a band"],
+      "genres": ["rap/hip-hop", "classical", "indie", "pop"],
       "skills": [
         {
           "type": "keyboard",
@@ -60,39 +64,43 @@
       "email": "john.doe@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
-      "pictureurl": "../assets/images/temp/DP2.png",
+      "profilePics": ["../assets/images/temp/DP2.png"],
       "onlinestatus": true,
       "proximityalert": true,
-	  "distance": "18",
+      "distance": "18",
       "facebook": {
         "ispresent": true,
         "id": "123456789"
-      },
-      "youtube": {
-        "ispresent": true,
-        "id": "3eaNLCu58io"
       },
       "instagram": {
         "ispresent": true,
         "id": "@johdoe"
       },
+      "youtube": {
+        "ispresent": true,
+        "id": "@johdoe"
+      },
       "spotify": {
         "ispresent": true,
-        "id": "track1234"
+        "id": "@johdoe"
       },
-      "lookingfor": [
-        "jam session",
-        "join a band"
-      ],
-      "genres": [
-        "rap/hip-hop",
-        "classical",
-        "indie",
-        "pop"
-      ],
+      "media": {
+        "youtube_videos": [
+          {
+            "id": "3eaNLCu58io"
+          }
+        ],
+        "spotify_tracks": [
+          {
+            "id": "track1234"
+          }
+        ]
+      },
+      "lookingfor": ["jam session", "join a band"],
+      "genres": ["rap/hip-hop", "classical", "indie", "pop"],
       "skills": [
         {
-          "type": "keyboard",
+          "type": "flute",
           "level": "beginner",
           "owns": true
         },
@@ -114,39 +122,43 @@
       "email": "john.doe@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
-      "pictureurl": "../assets/images/temp/DP3.png",
+      "profilePics": ["../assets/images/temp/DP3.png"],
       "onlinestatus": true,
       "proximityalert": true,
-	  "distance": "10.3",
+      "distance": "10.3",
       "facebook": {
         "ispresent": true,
         "id": "123456789"
-      },
-      "youtube": {
-        "ispresent": true,
-        "id": "3eaNLCu58io"
       },
       "instagram": {
         "ispresent": true,
         "id": "@johdoe"
       },
-      "spotify": {
+      "youtube": {
         "ispresent": true,
-        "id": "track1234"
+        "id": "@johdoe"
       },
-      "lookingfor": [
-        "jam session",
-        "join a band"
-      ],
-      "genres": [
-        "rap/hip-hop",
-        "classical",
-        "indie",
-        "pop"
-      ],
+      "spotify": {
+        "ispresent": false,
+        "id": ""
+      },
+      "media": {
+        "youtube_videos": [
+          {
+            "id": "3eaNLCu58io"
+          }
+        ],
+        "spotify_tracks": [
+          {
+            "id": "track1234"
+          }
+        ]
+      },
+      "lookingfor": ["jam session", "join a band"],
+      "genres": ["rap/hip-hop", "classical", "indie", "pop"],
       "skills": [
         {
-          "type": "keyboard",
+          "type": "cowbell",
           "level": "beginner",
           "owns": true
         },
@@ -168,36 +180,40 @@
       "email": "john.doe@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
-      "pictureurl": "../assets/images/temp/DP1.png",
+      "profilePics": ["../assets/images/temp/DP1.png"],
       "onlinestatus": true,
       "proximityalert": true,
-	  "distance": "14.5",
+      "distance": "14.5",
       "facebook": {
         "ispresent": true,
         "id": "123456789"
       },
-      "youtube": {
-        "ispresent": true,
-        "id": "3eaNLCu58io"
-      },
       "instagram": {
+        "ispresent": false,
+        "id": ""
+      },
+      "youtube": {
         "ispresent": true,
         "id": "@johdoe"
       },
       "spotify": {
         "ispresent": true,
-        "id": "track1234"
+        "id": "@johdoe"
       },
-      "lookingfor": [
-        "jam session",
-        "join a band"
-      ],
-      "genres": [
-        "rap/hip-hop",
-        "classical",
-        "indie",
-        "pop"
-      ],
+      "media": {
+        "youtube_videos": [
+          {
+            "id": "3eaNLCu58io"
+          }
+        ],
+        "spotify_tracks": [
+          {
+            "id": "track1234"
+          }
+        ]
+      },
+      "lookingfor": ["jam session", "join a band"],
+      "genres": ["rap/hip-hop", "classical", "indie", "pop"],
       "skills": [
         {
           "type": "keyboard",
@@ -222,36 +238,40 @@
       "email": "john.doe@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
-      "pictureurl": "../assets/images/temp/DP2.png",
+      "profilePics": ["../assets/images/temp/DP2.png"],
       "onlinestatus": true,
       "proximityalert": true,
-	  "distance": "20.2",
+      "distance": "20.2",
       "facebook": {
         "ispresent": true,
         "id": "123456789"
-      },
-      "youtube": {
-        "ispresent": true,
-        "id": "3eaNLCu58io"
       },
       "instagram": {
         "ispresent": true,
         "id": "@johdoe"
       },
+      "youtube": {
+        "ispresent": true,
+        "id": "@johdoe"
+      },
       "spotify": {
         "ispresent": true,
-        "id": "track1234"
+        "id": "@johdoe"
       },
-      "lookingfor": [
-        "jam session",
-        "join a band"
-      ],
-      "genres": [
-        "rap/hip-hop",
-        "classical",
-        "indie",
-        "pop"
-      ],
+      "media": {
+        "youtube_videos": [
+          {
+            "id": "3eaNLCu58io"
+          }
+        ],
+        "spotify_tracks": [
+          {
+            "id": "track1234"
+          }
+        ]
+      },
+      "lookingfor": ["jam session", "join a band"],
+      "genres": ["rap/hip-hop", "classical", "indie", "pop"],
       "skills": [
         {
           "type": "keyboard",
@@ -276,36 +296,40 @@
       "email": "john.doe@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
-      "pictureurl": "../assets/images/temp/DP1.png",
+      "profilePics": ["../assets/images/temp/DP1.png"],
       "onlinestatus": true,
       "proximityalert": true,
-	  "distance": "17.6",
+      "distance": "17.6",
       "facebook": {
         "ispresent": true,
         "id": "123456789"
-      },
-      "youtube": {
-        "ispresent": true,
-        "id": "3eaNLCu58io"
       },
       "instagram": {
         "ispresent": true,
         "id": "@johdoe"
       },
+      "youtube": {
+        "ispresent": true,
+        "id": "@johdoe"
+      },
       "spotify": {
         "ispresent": true,
-        "id": "track1234"
+        "id": "@johdoe"
       },
-      "lookingfor": [
-        "jam session",
-        "join a band"
-      ],
-      "genres": [
-        "rap/hip-hop",
-        "classical",
-        "indie",
-        "pop"
-      ],
+      "media": {
+        "youtube_videos": [
+          {
+            "id": "3eaNLCu58io"
+          }
+        ],
+        "spotify_tracks": [
+          {
+            "id": "track1234"
+          }
+        ]
+      },
+      "lookingfor": ["jam session", "join a band"],
+      "genres": ["rap/hip-hop", "classical", "indie", "pop"],
       "skills": [
         {
           "type": "keyboard",
@@ -330,36 +354,40 @@
       "email": "john.doe@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
-      "pictureurl": "../assets/images/temp/DP2.png",
+      "profilePics": ["../assets/images/temp/DP2.png"],
       "onlinestatus": true,
       "proximityalert": true,
-	  "distance": "19.8",
+      "distance": "19.8",
       "facebook": {
         "ispresent": true,
         "id": "123456789"
-      },
-      "youtube": {
-        "ispresent": true,
-        "id": "3eaNLCu58io"
       },
       "instagram": {
         "ispresent": true,
         "id": "@johdoe"
       },
+      "youtube": {
+        "ispresent": true,
+        "id": "@johdoe"
+      },
       "spotify": {
         "ispresent": true,
-        "id": "track1234"
+        "id": "@johdoe"
       },
-      "lookingfor": [
-        "jam session",
-        "join a band"
-      ],
-      "genres": [
-        "rap/hip-hop",
-        "classical",
-        "indie",
-        "pop"
-      ],
+      "media": {
+        "youtube_videos": [
+          {
+            "id": "3eaNLCu58io"
+          }
+        ],
+        "spotify_tracks": [
+          {
+            "id": "track1234"
+          }
+        ]
+      },
+      "lookingfor": ["jam session", "join a band"],
+      "genres": ["rap/hip-hop", "classical", "indie", "pop"],
       "skills": [
         {
           "type": "keyboard",
@@ -384,36 +412,40 @@
       "email": "john.doe@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
-      "pictureurl": "../assets/images/temp/DP3.png",
+      "profilePics": ["../assets/images/temp/DP3.png"],
       "onlinestatus": true,
       "proximityalert": true,
-	  "distance": "21.2",
+      "distance": "21.2",
       "facebook": {
         "ispresent": true,
         "id": "123456789"
-      },
-      "youtube": {
-        "ispresent": true,
-        "id": "3eaNLCu58io"
       },
       "instagram": {
         "ispresent": true,
         "id": "@johdoe"
       },
+      "youtube": {
+        "ispresent": true,
+        "id": "@johdoe"
+      },
       "spotify": {
         "ispresent": true,
-        "id": "track1234"
+        "id": "@johdoe"
       },
-      "lookingfor": [
-        "jam session",
-        "join a band"
-      ],
-      "genres": [
-        "rap/hip-hop",
-        "classical",
-        "indie",
-        "pop"
-      ],
+      "media": {
+        "youtube_videos": [
+          {
+            "id": "3eaNLCu58io"
+          }
+        ],
+        "spotify_tracks": [
+          {
+            "id": "track1234"
+          }
+        ]
+      },
+      "lookingfor": ["jam session", "join a band"],
+      "genres": ["rap/hip-hop", "classical", "indie", "pop"],
       "skills": [
         {
           "type": "keyboard",
