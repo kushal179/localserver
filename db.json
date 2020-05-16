@@ -1,9 +1,274 @@
 {
+  "users": [
+    {
+      "id": "7t2mMHx9TbCcvkzX4H9Yhny92RoTaQ3l",
+      "displayName": "Purple Rain",
+      "displayPic": "PP1.png",
+      "email": "purple.rain@gmail.com",
+      "password": "test1",
+      "skills": [],
+      "genres": [],
+      "bio": "Prince is one of the best artists of 20th century.",
+      "lookingFor": [],
+      "youtubeHandle": "",
+      "instagramHandle": "",
+      "facebookHandle": "",
+      "videoIds": [],
+      "location": {}
+    },
+    {
+      "id": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
+      "displayName": "Slava",
+      "displayPic": "PP2.png",
+      "email": "slava@gmail.com",
+      "password": "test2",
+      "skills": [],
+      "genres": [],
+      "bio": "Legend has it that Rumplestilskin is a good man.",
+      "lookingFor": [],
+      "youtubeHandle": "",
+      "instagramHandle": "",
+      "facebookHandle": "",
+      "videoIds": [],
+      "location": {}
+    },
+    {
+      "id": "ff8bstVfuFM2TMPKcw3XcbdR6kOESmoT",
+      "displayName": "Justin",
+      "displayPic": "PP3.png",
+      "email": "justin@gmail.com",
+      "password": "test3",
+      "skills": [],
+      "genres": [],
+      "bio": "Rise above your circumstances",
+      "lookingFor": [],
+      "youtubeHandle": "",
+      "instagramHandle": "",
+      "facebookHandle": "",
+      "videoIds": [],
+      "location": {}
+    },
+    {
+      "id": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "displayName": "John Doe 4",
+      "displayPic": "",
+      "email": "john.doe4@gmail.com",
+      "password": "test4",
+      "skills": [],
+      "genres": [],
+      "bio": "",
+      "lookingFor": [],
+      "youtubeHandle": "",
+      "instagramHandle": "",
+      "facebookHandle": "",
+      "videoIds": [],
+      "location": {}
+    },
+    {
+      "id": "6HUrLO6WP8w0BSSeC6SvfglmeD9RG7lk",
+      "displayName": "John Doe 5",
+      "displayPic": "",
+      "email": "john.doe5@gmail.com",
+      "password": "test5",
+      "skills": [],
+      "genres": [],
+      "bio": "",
+      "lookingFor": [],
+      "youtubeHandle": "",
+      "instagramHandle": "",
+      "facebookHandle": "",
+      "videoIds": [],
+      "location": {}
+    },
+    {
+      "id": "BLff3dGmVLIDEw8NOxO9Q89SeZhn7jOa",
+      "displayName": "John Doe 6",
+      "displayPic": "",
+      "email": "john.doe6@gmail.com",
+      "password": "test6",
+      "skills": [],
+      "genres": [],
+      "bio": "",
+      "lookingFor": [],
+      "youtubeHandle": "",
+      "instagramHandle": "",
+      "facebookHandle": "",
+      "videoIds": [],
+      "location": {}
+    },
+    {
+      "id": "ioqo6hTdrwGEGlYl4PHrNbhkf6oS8tSJ",
+      "displayName": "John Doe 7",
+      "displayPic": "",
+      "email": "john.doe7@gmail.com",
+      "password": "test7",
+      "skills": [],
+      "genres": [],
+      "bio": "",
+      "lookingFor": [],
+      "youtubeHandle": "",
+      "instagramHandle": "",
+      "facebookHandle": "",
+      "videoIds": [],
+      "location": {}
+    },
+    {
+      "id": "2hKn0gMVB2zMTuYmgIiKY653AQaLpPSU",
+      "displayName": "John Doe 8",
+      "displayPic": "",
+      "email": "john.doe8@gmail.com",
+      "password": "test8",
+      "skills": [],
+      "genres": [],
+      "bio": "",
+      "lookingFor": [],
+      "youtubeHandle": "",
+      "instagramHandle": "",
+      "facebookHandle": "",
+      "videoIds": [],
+      "location": {}
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "chatRoomId": 1,
+      "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
+      "timestamp": 1589174479728,
+      "text": "Purple Rain"
+    },
+    {
+      "id": 2,
+      "chatRoomId": 1,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "timestamp": 1589174552786,
+      "text": "A very very very very very very very very very very very longggggggggggggggggggggg message that will go on forever.........................."
+    },
+    {
+      "id": 3,
+      "chatRoomId": 1,
+      "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
+      "timestamp": 1589174573058,
+      "text": "I will be super happy"
+    },
+    {
+      "id": 4,
+      "chatRoomId": 1,
+      "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
+      "timestamp": 1589174587299,
+      "text": "If we can finish this app Version 1 by May 30th.."
+    },
+    {
+      "id": 5,
+      "chatRoomId": 1,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "timestamp": 1589174593994,
+      "text": "I think it's possible."
+    },
+    {
+      "id": 6,
+      "chatRoomId": 2,
+      "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
+      "timestamp": 1589174593994,
+      "text": "Love the profile!"
+    },
+    {
+      "id": 7,
+      "chatRoomId": 2,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "timestamp": 1589174594520,
+      "text": "Thanks, I worked hard on it!"
+    },
+    {
+      "id": 8,
+      "chatRoomId": 2,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "timestamp": 1589174594550,
+      "text": "You're a drummer? That's sweet! How long have you been doing that for?"
+    },
+    {
+      "id": 9,
+      "chatRoomId": 2,
+      "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
+      "timestamp": 1589174594950,
+      "text": "About 6 months. Lots to learn, but I'm loving it! We should jam out sometime!"
+    },
+    {
+      "id": 10,
+      "chatRoomId": 2,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "timestamp": 1589174597350,
+      "text": "Yeah! How's saturday evening sound?"
+    },
+    {
+      "id": 11,
+      "chatRoomId": 3,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "timestamp": 1589174597350,
+      "text": "Yo! It looks like you've had to overcome some crazy obstacles, well done!"
+    },
+    {
+      "id": 12,
+      "chatRoomId": 3,
+      "uid": "ff8bstVfuFM2TMPKcw3XcbdR6kOESmoT",
+      "timestamp": 1589174609532,
+      "text": "Thanks! Sure have. How about you? Looking to join the full-time club too?"
+    }
+  ],
+  "chatRooms": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ],
+  "chatRoomMembers": [
+    {
+      "id": 1,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "chatRoomId": 1,
+      "color": "#1873DE"
+    },
+    {
+      "id": 2,
+      "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
+      "chatRoomId": 1,
+      "color": "#E8E8E8"
+    },
+    {
+      "id": 3,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "chatRoomId": 2,
+      "color": "#1873DE"
+    },
+    {
+      "id": 4,
+      "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
+      "chatRoomId": 2,
+      "color": "#E8E8E8"
+    },
+    {
+      "id": 5,
+      "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
+      "chatRoomId": 3,
+      "color": "#1873DE"
+    },
+    {
+      "id": 6,
+      "uid": "ff8bstVfuFM2TMPKcw3XcbdR6kOESmoT",
+      "chatRoomId": 3,
+      "color": "#E8E8E8"
+    }
+  ],
   "nearbyuser": [
     {
       "id": "7t2mMHx9TbCcvkzX4H9Yhny92RoTaQ3l",
       "name": "John Doe 1",
-      "email": "john.doe@gmail.com",
+      "email": "john.doe1@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
       "profilePics": ["../assets/images/temp/DP1.png"],
@@ -61,7 +326,7 @@
     {
       "id": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
       "name": "John Doe 2",
-      "email": "john.doe@gmail.com",
+      "email": "john.doe2@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
       "profilePics": ["../assets/images/temp/DP2.png"],
@@ -119,7 +384,7 @@
     {
       "id": "ff8bstVfuFM2TMPKcw3XcbdR6kOESmoT",
       "name": "John Doe 3",
-      "email": "john.doe@gmail.com",
+      "email": "john.doe3@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
       "profilePics": ["../assets/images/temp/DP3.png"],
@@ -177,7 +442,7 @@
     {
       "id": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
       "name": "John Doe 4",
-      "email": "john.doe@gmail.com",
+      "email": "john.doe4@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
       "profilePics": ["../assets/images/temp/DP1.png"],
@@ -235,7 +500,7 @@
     {
       "id": "6HUrLO6WP8w0BSSeC6SvfglmeD9RG7lk",
       "name": "John Doe 5",
-      "email": "john.doe@gmail.com",
+      "email": "john.doe5@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
       "profilePics": ["../assets/images/temp/DP2.png"],
@@ -293,7 +558,7 @@
     {
       "id": "BLff3dGmVLIDEw8NOxO9Q89SeZhn7jOa",
       "name": "John Doe 6",
-      "email": "john.doe@gmail.com",
+      "email": "john.doe6@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
       "profilePics": ["../assets/images/temp/DP1.png"],
@@ -351,7 +616,7 @@
     {
       "id": "ioqo6hTdrwGEGlYl4PHrNbhkf6oS8tSJ",
       "name": "John Doe 7",
-      "email": "john.doe@gmail.com",
+      "email": "john.doe7@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
       "profilePics": ["../assets/images/temp/DP2.png"],
@@ -409,7 +674,7 @@
     {
       "id": "2hKn0gMVB2zMTuYmgIiKY653AQaLpPSU",
       "name": "John Doe 8",
-      "email": "john.doe@gmail.com",
+      "email": "john.doe8@gmail.com",
       "shortdescription": "Over 40 years of experience in the music industry. Looking to collab with...",
       "description": "Over 40 years of experience in the music industry. Looking to collaborate with passionate musicians. Looking for a drummer to join my group. Check out my latest hits!",
       "profilePics": ["../assets/images/temp/DP3.png"],
