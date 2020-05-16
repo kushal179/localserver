@@ -466,90 +466,102 @@
     {
       "id": 1,
       "users": ["0y4NV4G4a360TrGXEf1pOBeeA5ThmALs","uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn"],
+      "colors": [
+        {
+          "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs": "#E8E8E"
+        },
+        {
+          "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn": "#1873DE"
+        }
+      ],
       "messages": [
         {
           "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
           "timestamp": 1589174479728,
-          "text": "Purple Rain",
-          "color": "#E8E8E8"
+          "text": "Purple Rain"
         },
         {
           "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
           "timestamp": 1589174552786,
-          "text": "A very very very very very very very very very very very longggggggggggggggggggggg message that will go on forever..........................",
-          "color": "#1873DE"
+          "text": "A very very very very very very very very very very very longggggggggggggggggggggg message that will go on forever.........................."
         },
         {
           "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
           "timestamp": 1589174573058,
-          "text": "I will be super happy",
-          "color": "#E8E8E8"
+          "text": "I will be super happy"
         },
         {
           "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
           "timestamp": 1589174587299,
-          "text": "If we can finish this app Version 1 by May 30th..",
-          "color": "#E8E8E8"
+          "text": "If we can finish this app Version 1 by May 30th.."
         },
         {
           "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
           "timestamp": 1589174593994,
-          "text": "I think it's possible.",
-          "color": "#1873DE"
+          "text": "I think it's possible."
         }
       ]
     },
     {
       "id": 2,
       "users": ["0y4NV4G4a360TrGXEf1pOBeeA5ThmALs","uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn"],
+      "colors": [
+        {
+          "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs": "#E8E8E"
+        },
+        {
+          "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn": "#1873DE"
+        }
+      ],
       "messages": [
         {
           "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
           "timestamp": 1589174593994,
-          "text": "Love the profile!",
-          "color":"#E8E8E8"
+          "text": "Love the profile!"
         },
         {
           "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
           "timestamp": 1589174594520,
-          "text": "Thanks, I worked hard on it!",
-          "color": "#1873DE"
+          "text": "Thanks, I worked hard on it!"
         },
         {
           "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
           "timestamp": 1589174594550,
-          "text": "You're a drummer? That's sweet! How long have you been doing that for?",
-          "color": "#1873DE"
+          "text": "You're a drummer? That's sweet! How long have you been doing that for?"
         },
         {
           "uid": "0y4NV4G4a360TrGXEf1pOBeeA5ThmALs",
           "timestamp": 1589174594950,
-          "text": "About 6 months. Lots to learn, but I'm loving it! We should jam out sometime!",
-          "color": "#E8E8E8"
+          "text": "About 6 months. Lots to learn, but I'm loving it! We should jam out sometime!"
         },
         {
           "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
           "timestamp": 1589174597350,
-          "text": "Yeah! How's saturday evening sound?",
-          "color": "#1873DE"
+          "text": "Yeah! How's saturday evening sound?"
         }
       ]
     },
     {
       "id": 3,
       "users": ["uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn", "ff8bstVfuFM2TMPKcw3XcbdR6kOESmoT"],
+      "colors": [
+        {
+          "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn": "#1873DE"
+        },
+        {
+          "ff8bstVfuFM2TMPKcw3XcbdR6kOESmoT": "#E8E8E8"
+        }
+      ],
       "messages": [
         {
           "uid": "uTgccgCzrtmMGq5usPtT9v9oAqoD3Qnn",
           "timestamp": 1589174597350,
-          "text": "Yo! It looks like you've had to overcome some crazy obstacles, well done!",
-          "color": "#1873DE"
+          "text": "Yo! It looks like you've had to overcome some crazy obstacles, well done!"
         },
         {
           "uid": "ff8bstVfuFM2TMPKcw3XcbdR6kOESmoT",
           "timestamp": 1589174609532,
-          "text": "Thanks! Sure have. How about you? Looking to join the full-time club too?",
-          "color": "#E8E8E8"
+          "text": "Thanks! Sure have. How about you? Looking to join the full-time club too?"
         }
       ]
     }
